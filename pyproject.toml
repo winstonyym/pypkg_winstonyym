@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pypkg_winstonyym"
-version = "0.1.0"
+version = "0.1.1"
 description = "testing package build"
 authors = ["winstonyym"]
 license = "MIT"
